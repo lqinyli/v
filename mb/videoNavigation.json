@@ -21,6 +21,12 @@
                                           "pic": "https://p1.img.cctvpic.com/photoAlbum/templet/special/PAGE1451534366399378/ELMTqQ38jfyJPzR5XTvdRCv3160113_1452653295.jpg",
                                                     "url": "https://m.lottery.gov.cn/tcwm/kjzb/"
         },
+         {
+          "name": "测试电视源",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://lqinyli.coding.net/p/ys/d/ys/git/raw/master/zhibo.m3u"
+        },
         {
           "name": "DJ音乐",
           "type": "app://customWeb",
@@ -370,7 +376,7 @@
           "name": "直播频道1",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://iptv-org.github.io/iptv/languages/zho.m3u"
+          "url": "https://lqinyli.coding.net/p/ys/d/ys/git/raw/master/zhibo.m3u"
         },
         {
           "name": "直播频道2",
