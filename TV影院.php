@@ -1,1 +1,0 @@
-https://gitee.com/tvmovie/live-tv-cinema/raw/master/TV%E5%BD%B1%E9%99%A2%E7%9B%B4%E6%92%AD%E6%BA%90.txt
