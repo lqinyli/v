@@ -22,11 +22,19 @@
                                                     "url": "https://m.lottery.gov.cn/tcwm/kjzb/"
         },
          {
-          "name": "测试电视源",
+          "name": "测试电视源1",
           "type": "app://m3u",
           "pic": "",
           "url": "https://lqinyli.coding.net/p/ys/d/ys/git/raw/master/zhibo.m3u"
         },
+        {
+          "name": "测试电视源2",
+          "type": "app://m3u",
+          "pic": "",
+          "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u"
+        },
+        
+
         {
           "name": "DJ音乐",
           "type": "app://customWeb",
