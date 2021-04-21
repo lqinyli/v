@@ -50,9 +50,34 @@
     },
     {
       "id": 19,
-      "name": "线路8",
+      "name": "线路9",
       "ad": "no",
       "url": "https://pay.520yk.cn/256/?url="
-    }
+    },
+
+    {
+
+      "id": 20,
+      "name": "解析大师",
+      "url": "https://jx.htv009.com/?url=",
+      "ad": "",
+     
+    },
+    {
+      "id": 21,
+      "name": "2A解析",
+      "url": "https://www.2ajx.com/vip.php?url=",
+      "ad": "",
+     
+    },
+    {
+      "id":22 ,
+      "name": "大白解析",
+      "url": "https://jx.dabaiapi.com/?url=",
+      "ad": "",
+     
+    }    
+
+
   ]
 }
