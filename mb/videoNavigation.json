@@ -45,12 +45,7 @@
           "pic": "https://www.lizhi.fm/assets/images/c98fc30ffe142b8d084d2f7450a88e8f-newlogo.png",
           "url": "https://www.gdtv.cn/tvChannelDetail/43"
         },
-        {
-          "name": "口令查券",
-          "type": "app://chaquan",
-          "pic": "",
-          "url": "http://www.baidu.com"
-        },
+        
         {
           "name": "自定义网址",
           "type": "app://custom",
