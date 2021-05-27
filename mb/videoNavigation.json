@@ -56,7 +56,7 @@
         {
           "name": "91看电视",
           "type": "app://customWeb",
-          "pic": "https://github.com/lqinyli/v/blob/master/91kds.jpg",
+          "pic": "https://raw.githubusercontent.com/lqinyli/v/master/91kds.jpg",
           "url": "http://m1.91kds.cn/"
         },
         {
