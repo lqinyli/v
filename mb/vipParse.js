@@ -2,9 +2,9 @@
   "data": [
       {
       "id": 1,
-      "name": "1907",
+      "name": "8090",
       "ad": "lga3,0755tt,dlswzw,kdmmm,tiantiankaiche",
-      "url": "https://z1.m1907.cn/?jx="
+      "url": "https://www.8090g.cn/?url="
     },
       
     {
