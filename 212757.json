@@ -82,6 +82,14 @@
             "categories":[]
 },
 {
+            "key": "思古影视",
+            "name": "思古影视",
+            "type": 0,
+            "api": "https://www.siguyy.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories":[]
+},
+{
             "key": "BL视频",
             "name": "BL视频",
             "type": 0,
