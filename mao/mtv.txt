@@ -259,7 +259,36 @@
      "filterable": 0,
      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/sky4k.json"
 },       
-
+{
+      "key": "人人迷",
+      "name": "人人迷",
+      "type": 1,
+      "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.renrenmi.cc/?url=",
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "剧情片",
+        "战争片",
+        "恐怖片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "其他剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+{
+      "key": "喵派对蓝光",
+      "name": "喵派对蓝光",
+      "type": 0,
+      "api": "https://www.neenl.com/api.php/provide/vod/at/xml",
+      "playUrl": "https://jx.renrenmi.cc/?url="
+    },
         {
  
             "key": "芒果（限成年人）",
